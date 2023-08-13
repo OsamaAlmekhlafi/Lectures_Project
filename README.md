@@ -1,2 +1,2 @@
 # Lectures_Project
-Applied Projects To learn Python and  ERPnext 
+All Projects and assignments For learning Python and ERPnext 
